@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+   background-color: rgb(75, 93, 110);
+}
+.number{
+    font-weight: bold;
+    font-size: 50px;
+    color: aqua;
+}
+#h1{
+    font-size: 100px;
+
+}
+#m1{
+    font-size: 100px;
+}
+#Sec{
+    font-size: 100px;
+}
+#count{
+    font-size: 100px;
+}
+#bnt{
+    text-align: center;
+
+}
+.bttn{
+    border-radius: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    
+}
+#stro{
+    background-color: red;
+}
+#sto{
+    background-color: yellow;
+
+}
+#ret{
+background-color: green;
+}
